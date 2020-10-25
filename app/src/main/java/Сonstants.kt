@@ -1,0 +1,5 @@
+const val DATA_TRANSFER_TYPE = "DATA_TRANSFER_TYPE"
+const val SP_TEXT = "Text"
+const val BUNDLE_TEXT = "BundleText"
+const val BUNDLE = "Bundle"
+const val APP_PREFERENCES = "SettingsApp"
